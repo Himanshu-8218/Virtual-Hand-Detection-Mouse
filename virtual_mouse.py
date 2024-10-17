@@ -69,5 +69,5 @@ while True:
 
 
 
-    cv2.imshow('                                 Virtual Mouse - RISHAV',frame)
+    cv2.imshow('                                 Virtual Mouse - Himanshu Verma',frame)
     cv2.waitKey(1)
